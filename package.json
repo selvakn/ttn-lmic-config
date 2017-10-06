@@ -1,0 +1,9 @@
+{
+  "name": "ttn_lmic_config_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ttn": "^2.2.6"
+  }
+}
