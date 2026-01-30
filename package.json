@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "ttn": "^2.2.6"
+    "ttn": "^2.3.3"
   }
 }
